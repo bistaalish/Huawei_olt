@@ -7,6 +7,6 @@ class Huawei:
         
         
     def TelnetSession(self):
-        
+        pass
 
     
